@@ -1,6 +1,6 @@
 # Hola, soy Tristán Pérez Vecina 👋
 
-Estudio el último trimestre de **Desarrollo de Aplicaciones Web (DAW) en ILERNA** y busco mis primeras **prácticas u oportunidad profesional**. Me interesa especialmente el backend, las bases de datos y aprender en proyectos reales.
+Estudio el último trimestre de **Desarrollo de Aplicaciones Web (DAW) en ILERNA** y busco mis primeras **prácticas u oportunidad profesional**. Busco prácticas tanto de frontend como de backend para aprender cómo trabaja un equipo de desarrollo, contribuir en proyectos reales y ganar experiencia.
 
 📍 Elda, Alicante · [Portafolio](https://portafolio-tristan.vercel.app/) · [CV](https://portafolio-tristan.vercel.app/Tristan_Perez_Vecina_CV_actualizado.pdf)
 
